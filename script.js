@@ -1,4 +1,3 @@
-console.log("Hello, World! Feranmi");
 const input = document.querySelector("input");
 const buttons = document.querySelectorAll("button");
 

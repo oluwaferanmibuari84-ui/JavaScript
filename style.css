@@ -44,7 +44,7 @@ body {
 .calculator button {
   height: 55px;
   border: none;
-  border-radius: 10px;
+  border-radius: 20px;
   background: #555;
   color: white;
   font-size: 18px;
